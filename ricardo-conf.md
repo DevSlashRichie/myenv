@@ -1,7 +1,7 @@
 
 # INSTALLING KITTY
 
-
+# AWESOME WM
 
 # INTSALLING NEOVIM
 FIRST YOU NEED TO INSTALL NEOVIM
@@ -21,4 +21,4 @@ Then you should run the following commands inside nvim:
 
 You will need to install the following:
 - Python 3.X.X
-- Node JS (Latest)
+- Node JS via nvm (Latest)
